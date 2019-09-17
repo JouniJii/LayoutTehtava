@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LayoutTehtävä</string>
+    <string name="button_enable_disable">Enable / Disable</string>
+    <string name="button_hide_pic">Hide picture</string>
+    <string name="button_show_pic">Show picture</string>
+</resources>
